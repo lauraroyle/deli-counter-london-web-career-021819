@@ -5,7 +5,7 @@ def line(katz_deli)
   else katz_deli.each_with_index do |name, index|
     
   end
-    
+
   end
 
 end
